@@ -1,4 +1,3 @@
-## Hi there 👋
 # Kole Duncan Robertson
 
 Mathematics & Statistics graduate (Honours BSc, University of Toronto) working in machine learning and data analysis. Based in Toronto.
