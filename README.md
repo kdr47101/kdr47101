@@ -11,7 +11,7 @@ Currently focused on competitive ML, applied analytics, and building LLM-powered
 **[CAFA 6: Protein Function Prediction](https://github.com/kdr47101/cafa-6-protein-function-prediction)** · Kaggle, **132 of 2,259** (top 6%)  
 Extreme multi-label classification across thousands of Gene Ontology terms. Built on a strong prior-year baseline with custom function encoding, tuned PyBoost (GPU gradient boosting), and a refined GO-hierarchy strategy combining propagated and non-propagated models.
 
-**[Omnilex: Agentic Legal Information Retrieval](https://github.com/kdr47101/omnilex-agentic-legal-retrieval)** · Kaggle, **top 11%**  
+**[Omnilex: Agentic Legal Information Retrieval](https://github.com/kdr47101/omnilex-agentic-legal-retrieval)** · Kaggle, **64 of 584** (top 11%)
 Multi-stage retrieval pipeline over a ~2M-document multilingual Swiss legal corpus. Combined regex extraction, dense embeddings (Qwen3), citation-fingerprint filtering, HyDE generation via a self-hosted LLM (Qwen3-32B on cloud GPU), and LLM-based pointwise reranking.
 
 **[UTSC SDG Data Challenge: 1st Place, "Best in Show"](https://github.com/kdr47101/UTSC-SDG-Data-Challenge)**  
